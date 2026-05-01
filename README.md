@@ -1,4 +1,4 @@
-```markdown
+
 # Gamification Engine for Health Workers (MVP)
 
 ## Overview
